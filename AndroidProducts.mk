@@ -31,7 +31,7 @@
 #
 # Unbundled apps will be built with the most generic product config.
 PRODUCT_MAKEFILES += \
-$LOCAL_DIR/lineage_chagalllte.mk
+$(LOCAL_DIR)/lineage_chagalllte.mk
 
 COMMON_LUNCH_CHOICES := \
  lineage_chagalllte-user \
