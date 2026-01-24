@@ -91,4 +91,4 @@ $(call inherit-product-if-exists, frameworks/native/build/phone-xxhdpi-3072-hwui
 $(call inherit-product, vendor/samsung/chagalllte/chagalllte-vendor.mk)
 
 # Import the common tree changes
-include device/samsung/exynos5420-common/exynos5420.mk
+include device/samsung/universal5420-common/universal5420.mk
