@@ -22,3 +22,5 @@ Front Camera | 2.1 MP
 Release Date | June 2014
 
 ![Galaxy Tab S 10.5](https://cdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-s-105-1.jpg "Galaxy Tab S 10.5 LTE")
+
+Note:its for LineageOS-UL
